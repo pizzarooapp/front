@@ -1,6 +1,6 @@
 import { FC } from "react"
 
-interface MenuItemProps {
+export interface MenuItemProps {
     imagePath: string,
     weight: number,
     title: string,
