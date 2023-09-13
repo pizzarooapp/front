@@ -3,7 +3,7 @@ import { FooterLink } from "../footer-link/footer-link.component"
 export const Footer = () => {
 
     return (
-        <div className="bg-gray-900 pt-12 px-12 pb-8">
+        <div className="bg-gray-900 p-8">
             <div className="text-white">
                 <div className="mb-4">
                     <span className="uppercase font-bold text-sm text-zinc-500">Contacts:</span>
