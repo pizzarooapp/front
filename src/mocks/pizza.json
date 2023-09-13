@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "image": "Capricciosa-Ham-Artichoke-Mushrooms-Olives_7.jpg",
+        "weight": 540,
+        "title": "Capricciosa Ham Artichoke Mushrooms",
+        "ingredients": "Пармезан, Моцарела, Соус Альфредо, Чеддер, Фета, Бергадер Блю",
+        "price": 250
+    },
+    {
+        "id": 2,
+        "image": "Garlic-cheese-pizza_9.webp",
+        "weight": 540,
+        "title": "Garlic cheese pizza",
+        "ingredients": "Пармезан, Моцарела, Соус Альфредо, Чеддер, Фета, Бергадер Блю",
+        "price": 230
+    },
+    {
+        "id": 3,
+        "image": "Ham-and-Pineapple.jpg",
+        "weight": 540,
+        "title": "Ham and Pineapple",
+        "ingredients": "Пармезан, Моцарела, Соус Альфредо, Чеддер, Фета, Бергадер Блю",
+        "price": 210
+    },
+    {
+        "id": 4,
+        "image": "Margherita-pizza-overhead.jpg",
+        "weight": 540,
+        "title": "Margherita pizza overhead",
+        "ingredients": "Пармезан, Моцарела, Соус Альфредо, Чеддер, Фета, Бергадер Блю",
+        "price": 270
+    },
+    {
+        "id": 5,
+        "image": "Meatlovers-1.webp",
+        "weight": 540,
+        "title": "Meatlovers",
+        "ingredients": "Пармезан, Моцарела, Соус Альфредо, Чеддер, Фета, Бергадер Блю",
+        "price": 220
+    },
+    {
+        "id": 6,
+        "image": "Pepperoni-Pizza_7.jpg",
+        "weight": 540,
+        "title": "Pepperoni Pizza",
+        "ingredients": "Пармезан, Моцарела, Соус Альфредо, Чеддер, Фета, Бергадер Блю",
+        "price": 250
+    },
+    {
+        "id": 7,
+        "image": "Potato-Rosemary-Pizza_2.webp",
+        "weight": 540,
+        "title": "Potato Rosemary Pizza",
+        "ingredients": "Пармезан, Моцарела, Соус Альфредо, Чеддер, Фета, Бергадер Блю",
+        "price": 260
+    },
+    {
+        "id": 8,
+        "image": "Prawn-Pizza_1.webp",
+        "weight": 540,
+        "title": "Prawn Pizza",
+        "ingredients": "Пармезан, Моцарела, Соус Альфредо, Чеддер, Фета, Бергадер Блю",
+        "price": 190
+    },
+    {
+        "id": 9,
+        "image": "Proscuitto-Rocket-Pizza.webp",
+        "weight": 540,
+        "title": "Proscuitto Rocket Pizza",
+        "ingredients": "Пармезан, Моцарела, Соус Альфредо, Чеддер, Фета, Бергадер Блю",
+        "price": 230
+    },
+    {
+        "id": 10,
+        "image": "Quattro-Formaggio-Four-Cheese-Pizza_1.webp",
+        "weight": 540,
+        "title": "Quattro Formaggio Four Cheese Pizza",
+        "ingredients": "Пармезан, Моцарела, Соус Альфредо, Чеддер, Фета, Бергадер Блю",
+        "price": 275
+    },
+    {
+        "id": 11,
+        "image": "Sausage-and-kale-pizza.webp",
+        "weight": 540,
+        "title": "Sausage and kale pizza",
+        "ingredients": "Пармезан, Моцарела, Соус Альфредо, Чеддер, Фета, Бергадер Блю",
+        "price": 300
+    },
+    {
+        "id": 12,
+        "image": "Supreme-Pizza.webp",
+        "weight": 540,
+        "title": "Supreme-Pizza",
+        "ingredients": "Пармезан, Моцарела, Соус Альфредо, Чеддер, Фета, Бергадер Блю",
+        "price": 220
+    }
+]
